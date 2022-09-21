@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanTrungThanhB1906764/backend.git"
+  },
+  "author": "Phan Trung Thanh B1906764",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanTrungThanhB1906764/backend/issues"
+  },
+  "homepage": "https://github.com/PhanTrungThanhB1906764/backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
