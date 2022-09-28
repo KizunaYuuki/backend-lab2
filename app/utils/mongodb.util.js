@@ -7,5 +7,4 @@ class MongoDB {
         return this.client;
     };
 }
-
 module.exports = MongoDB;
